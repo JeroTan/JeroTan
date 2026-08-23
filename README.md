@@ -109,9 +109,9 @@
 ## Things I Build
 
 - **Cloud-ready starters** — [Astro + Cloudflare template](https://github.com/JeroTan/astro-cloudflare-starter-template) for fast project setup.
-- **Developer and productivity tools** — [JSArmyKnife](https://github.com/JeroTan/JSArmyKnife), [Fetch Man](https://github.com/JeroTan/fetch-man), and [Musifier2](https://github.com/JeroTan/Musifier2).
+- **Developer and productivity tools** — [JSArmyKnife](https://github.com/JeroTan/JSArmyKnife), [Fetch Man](https://github.com/JeroTan/fetch-man), [Musifier2](https://github.com/JeroTan/Musifier2) and more. . .
 - **Local AI tools** — [Voice Revolver AI](https://github.com/JeroTan/voice-revolver-local-ai) for voice cloning, vocal replacement, and audio workflows.
-- **Web games** — [Snake](https://github.com/JeroTan/Snake) and [Orthographic Car](https://github.com/JeroTan/orthographic-car).
+- **Web games** — [Snake](https://github.com/JeroTan/Snake),   [Orthographic Car](https://github.com/JeroTan/orthographic-car) and more. . .
 
 ---
 
@@ -120,61 +120,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=22&amp;pause=1100&amp;color=42C9C9&amp;center=true&amp;vCenter=true&amp;width=760&amp;separator=%7C&amp;lines=Software+Engineer%7CUwU+Developer%7CArchitect%7COrganic+Builders+and+AI+Manipulator+%3B+%29%7CApex+Predator%28Maybe+In+Afterlife%29%7CPok%C3%A9mon+Trainer+with+8+badges%21%7CHuTao+Main" alt="Animated introduction: Software Engineer, UwU Developer, Architect, AI Manipulator, Apex Predator, Pokémon Trainer, and HuTao Main" />
   </a>
 </p>
-
----
-
-## Pinned Repositories
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/JeroTan/astro-cloudflare-starter-template">astro-cloudflare-starter-template</a></h3>
-      <p>Astro starter for deploying to Cloudflare Workers.</p>
-      <sub>TypeScript</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/JeroTan/voice-revolver-local-ai">Voice Revolver AI</a></h3>
-      <p>Local AI audio workstation for voice cloning, vocal replacement, and custom voice training.</p>
-      <sub>Python</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/JeroTan/ECJersey">ECJersey</a></h3>
-      <p>React e-commerce jersey storefront mockup.</p>
-      <sub>JavaScript</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/JeroTan/JSArmyKnife">JSArmyKnife</a></h3>
-      <p>Starter template for building JavaScript applications.</p>
-      <sub>TypeScript</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/JeroTan/musifier-version-2">musifier-version-2</a></h3>
-      <p>Music project migrated to Astro.</p>
-      <sub>JavaScript</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/JeroTan/Snake">Snake</a></h3>
-      <p>Classic browser-based Snake game.</p>
-      <sub>HTML</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/JeroTan/novel-writer-english">novel-writer-english</a></h3>
-      <p>English novel-writing skill workflow for AI coding agents.</p>
-      <sub>JavaScript</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/JeroTan/jrw-webapp">jrw-webapp</a></h3>
-      <p>Clothing e-commerce web application.</p>
-      <sub>TypeScript</sub>
-    </td>
-  </tr>
-</table>
 
 ---
 
