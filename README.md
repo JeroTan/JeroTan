@@ -6,7 +6,7 @@
   <img src="https://avatars.githubusercontent.com/u/86645548?v=4" width="140" alt="Jerowe Tan's GitHub avatar" />
 </p>
 
-<h1 align="center">Hi, I'm Jerowe Tan (mekænix) 👋</h1>
+<h1 align="center">Jerowe Tan (mekænix) 👋</h1>
 
 <h3 align="center">Software Engineer · Cloud Architect</h3>
 
@@ -118,8 +118,6 @@
 - **Web games** — [Snake](https://github.com/JeroTan/Snake) and [Orthographic Car](https://github.com/JeroTan/orthographic-car).
 
 ---
-
-## Interactive Introduction
 
 <p align="center">
   <a href="https://jerotan.github.io/portfolio/">
