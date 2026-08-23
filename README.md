@@ -2,11 +2,7 @@
   <img src="./assets/banner.png" width="100%" alt="Cyan character illustration by Jerowe Tan" />
 </p>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/86645548?v=4" width="140" alt="Jerowe Tan's GitHub avatar" />
-</p>
-
-<h1 align="center">Jerowe Tan (mekænix) 👋</h1>
+<h1 align="center">Hi, I'm Jerowe Tan (mekænix) 👋</h1>
 
 <h3 align="center">Software Engineer · Cloud Architect</h3>
 
