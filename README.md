@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://jerotan.github.io/portfolio/"><img src="https://img.shields.io/badge/View_Portfolio-0D9488?style=for-the-badge&amp;logo=githubpages&amp;logoColor=white" alt="View portfolio" /></a>
-  <a href="#interactive-introduction"><img src="https://img.shields.io/badge/Interactive_Intro-0891B2?style=for-the-badge&amp;logo=windowsterminal&amp;logoColor=white" alt="View interactive introduction" /></a>
+  <a href="https://github.com/JeroTan"><img src="https://img.shields.io/badge/GitHub_Profile-0891B2?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View GitHub profile" /></a>
   <a href="https://www.linkedin.com/in/jerowe-tan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" /></a>
 </p>
 
@@ -71,7 +71,8 @@
   <img src="https://img.shields.io/badge/OpenCode-111827?style=for-the-badge&amp;logo=opencode&amp;logoColor=5EEAD4" alt="OpenCode" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&amp;logo=langchain&amp;logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/Mastra-111827?style=for-the-badge&amp;logo=mastra&amp;logoColor=5EEAD4" alt="Mastra" />
-  <img src="https://img.shields.io/badge/OpenAI_Codex-111827?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="OpenAI Codex" />
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@1.94.0/icons/codex-color.svg" height="28" alt="OpenAI Codex logo" />
+  <img src="https://img.shields.io/badge/OpenAI_Codex-111827?style=for-the-badge" alt="OpenAI Codex" />
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&amp;logo=claude&amp;logoColor=white" alt="Claude Code" />
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&amp;logo=googlegemini&amp;logoColor=white" alt="Google Gemini" />
   <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&amp;logo=deepseek&amp;logoColor=white" alt="DeepSeek" />
@@ -112,8 +113,9 @@
 ## Things I Build
 
 - **Cloud-ready starters** — [Astro + Cloudflare template](https://github.com/JeroTan/astro-cloudflare-starter-template) for fast project setup.
-- **Developer tools** — [JSArmyKnife](https://github.com/JeroTan/JSArmyKnife), reusable utilities, and automation workflows.
-- **AI and creative apps** — [Chatterbox Portable GUI](https://github.com/JeroTan/chatterbox-portable-gui), interactive web projects, and small games.
+- **Developer and productivity tools** — [JSArmyKnife](https://github.com/JeroTan/JSArmyKnife), [Fetch Man](https://github.com/JeroTan/fetch-man), and [Musifier2](https://github.com/JeroTan/Musifier2).
+- **Local AI tools** — [Voice Revolver AI](https://github.com/JeroTan/voice-revolver-local-ai) for voice cloning, vocal replacement, and audio workflows.
+- **Web games** — [Snake](https://github.com/JeroTan/Snake) and [Orthographic Car](https://github.com/JeroTan/orthographic-car).
 
 ---
 
@@ -121,7 +123,7 @@
 
 <p align="center">
   <a href="https://jerotan.github.io/portfolio/">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=22&amp;pause=1100&amp;color=42C9C9&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Full-stack+developer;Building+web%2C+cloud%2C+and+AI+tools;Turning+ideas+into+useful+software" alt="Animated introduction: full-stack developer building web, cloud, and AI tools" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=22&amp;pause=1100&amp;color=42C9C9&amp;center=true&amp;vCenter=true&amp;width=760&amp;separator=%7C&amp;lines=Software+Engineer%7CUwU+Developer%7CArchitect%7COrganic+Builders+and+AI+Manipulator+%3B+%29%7CApex+Predator%28Maybe+In+Afterlife%29%7CPok%C3%A9mon+Trainer+with+8+badges%21%7CHuTao+Main" alt="Animated introduction: Software Engineer, UwU Developer, Architect, AI Manipulator, Apex Predator, Pokémon Trainer, and HuTao Main" />
   </a>
 </p>
 
@@ -137,8 +139,8 @@
       <sub>TypeScript</sub>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/JeroTan/chatterbox-portable-gui">chatterbox-portable-gui</a></h3>
-      <p>Portable desktop GUI for Chatterbox TTS.</p>
+      <h3><a href="https://github.com/JeroTan/voice-revolver-local-ai">Voice Revolver AI</a></h3>
+      <p>Local AI audio workstation for voice cloning, vocal replacement, and custom voice training.</p>
       <sub>Python</sub>
     </td>
   </tr>
@@ -166,6 +168,18 @@
       <sub>HTML</sub>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/JeroTan/novel-writer-english">novel-writer-english</a></h3>
+      <p>English novel-writing skill workflow for AI coding agents.</p>
+      <sub>JavaScript</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/JeroTan/jrw-webapp">jrw-webapp</a></h3>
+      <p>Clothing e-commerce web application.</p>
+      <sub>TypeScript</sub>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -173,15 +187,24 @@
 ## Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JeroTan&amp;bg_color=0D1117&amp;color=70E1F5&amp;line=42C9C9&amp;point=FFFFFF&amp;area=true&amp;hide_border=true" width="100%" alt="Jerowe Tan's GitHub contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JeroTan&amp;bg_color=0D1117&amp;color=70E1F5&amp;line=42C9C9&amp;point=FFFFFF&amp;area=true&amp;height=200&amp;hide_border=true" width="100%" alt="Jerowe Tan's GitHub contribution activity graph" />
 </p>
 
 ---
 
 ## Outside of Code
 
-Away from code, I make digital illustrations. This profile banner is one of my pieces.
+Some of my work of art. . .
 
 <p align="center">
-  <img src="./assets/banner.png" width="72%" alt="Digital illustration by Jerowe Tan" />
+  <img src="./assets/illustration/001.jpg" width="49%" align="left" alt="Digital character illustration by Jerowe Tan" />
+  <img src="./assets/illustration/002.jpg" width="49%" align="right" alt="Digital character portrait by Jerowe Tan" />
+  <img src="./assets/illustration/003.jpg" width="49%" align="left" alt="Digital anime portrait by Jerowe Tan" />
+  <img src="./assets/illustration/004.jpg" width="49%" align="right" alt="Digital character artwork by Jerowe Tan" />
+</p>
+
+<br clear="both" />
+
+<p align="center">
+  <a href="https://www.pixiv.net/en/users/54285171"><img src="https://img.shields.io/badge/See_More-0096FA?style=for-the-badge&amp;logo=pixiv&amp;logoColor=white" alt="See more illustrations on Pixiv" /></a>
 </p>
