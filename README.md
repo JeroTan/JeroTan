@@ -113,15 +113,11 @@
 - **Local AI tools** — [Voice Revolver AI](https://github.com/JeroTan/voice-revolver-local-ai) for voice cloning, vocal replacement, and audio workflows.
 - **Web games** — [Snake](https://github.com/JeroTan/Snake),   [Orthographic Car](https://github.com/JeroTan/orthographic-car) and more. . .
 
----
-
 <p align="center">
   <a href="https://jerotan.github.io/portfolio/">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=22&amp;pause=1100&amp;color=42C9C9&amp;center=true&amp;vCenter=true&amp;width=760&amp;separator=%7C&amp;lines=Software+Engineer%7CUwU+Developer%7CArchitect%7COrganic+Builders+and+AI+Manipulator+%3B+%29%7CApex+Predator%28Maybe+In+Afterlife%29%7CPok%C3%A9mon+Trainer+with+8+badges%21%7CHuTao+Main" alt="Animated introduction: Software Engineer, UwU Developer, Architect, AI Manipulator, Apex Predator, Pokémon Trainer, and HuTao Main" />
   </a>
 </p>
-
----
 
 ## Contribution Graph
 
@@ -129,7 +125,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JeroTan&amp;bg_color=0D1117&amp;color=70E1F5&amp;line=42C9C9&amp;point=FFFFFF&amp;area=true&amp;height=200&amp;hide_border=true" width="100%" alt="Jerowe Tan's GitHub contribution activity graph" />
 </p>
 
----
 
 ## Outside of Code
 
