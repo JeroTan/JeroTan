@@ -203,7 +203,7 @@ Some of my work of art. . .
   <img src="./assets/illustration/004.jpg" width="49%" align="right" alt="Digital character artwork by Jerowe Tan" />
 </p>
 
-<br clear="both" />
+<br clear="both" style="margin-bottom: 5px;" />
 
 <p align="center">
   <a href="https://www.pixiv.net/en/users/54285171"><img src="https://img.shields.io/badge/See_More-0096FA?style=for-the-badge&amp;logo=pixiv&amp;logoColor=white" alt="See more illustrations on Pixiv" /></a>
